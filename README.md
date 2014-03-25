@@ -1,5 +1,4 @@
 # An Alfred time tracking workflow
-=============================
 
 A simple Alfred Workflow that helps me remember what I was doing.
 
@@ -12,3 +11,5 @@ A simple Alfred Workflow that helps me remember what I was doing.
 Type `doing` followed by what you were doing, e.g. `doing Checking emails`
 
 You can also add the number of minutes spent doing the tasks, e.g. `doing 15 Checking emails`
+
+This will then be added to a text file along with a timestamp.
